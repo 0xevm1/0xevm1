@@ -26,6 +26,13 @@ I've built user-facing experiences at **Adobe** and **Disney Streaming**, where 
 
 ### Selected work
 
+#### 🌊 Real-time energy flow intelligence
+A live geospatial dashboard that tracks tanker traffic through global shipping chokepoints and translates supply disruptions into a forward-looking energy inflation outlook. It has scenario modeling, a glassmorphic HUD that can be toggled off for a full-bleed map, and an API/MCP layer so AI agents can query it directly.
+
+<img src="portfolio/energy-intel-chokepoint-flow.png" width="900" alt="Dark map of a shipping strait with live vessel tracks and oil flow panel">
+<img src="portfolio/energy-intel-cpi-transmission.png" width="900" alt="Supply loss to CPI transmission breakdown overlaid on a canal map">
+<img src="portfolio/energy-intel-fullscreen-map.png" width="900" alt="Full-bleed map view with the HUD hidden">
+
 #### 🧠 Neural response analyzer for video creative
 An interactive tool that predicts how an average viewer's brain responds to a video ad, second by second. Features a 3D cortical surface with switchable views and inflation controls, a timeline synced to playback, and per-region scores broken down by video, audio, and speech drivers. The model runs locally.
 
@@ -36,13 +43,6 @@ An agentic document review platform for construction owners. Contracts, rate she
 
 <img src="portfolio/change-order-ai-checklist-pipeline.png" width="900" alt="Visual checklist pipeline from cover sheet through approvals">
 <img src="portfolio/change-order-ai-setup-wizard.png" width="900" alt="Guided four-step onboarding wizard for organization, program, and project">
-
-#### 🌊 Real-time energy flow intelligence
-A live geospatial dashboard that tracks tanker traffic through global shipping chokepoints and translates supply disruptions into a forward-looking energy inflation outlook. It has scenario modeling, a glassmorphic HUD that can be toggled off for a full-bleed map, and an API/MCP layer so AI agents can query it directly.
-
-<img src="portfolio/energy-intel-chokepoint-flow.png" width="900" alt="Dark map of a shipping strait with live vessel tracks and oil flow panel">
-<img src="portfolio/energy-intel-cpi-transmission.png" width="900" alt="Supply loss to CPI transmission breakdown overlaid on a canal map">
-<img src="portfolio/energy-intel-fullscreen-map.png" width="900" alt="Full-bleed map view with the HUD hidden">
 
 #### 📈 Social trade-card generator
 A consumer app that turns cluttered brokerage screenshots from any broker into clean, shareable portfolio cards. AI vision extracts holdings and P&L, and the app adds a community leaderboard, passkey sign-in, QR-based copy-trade links, privacy controls to hide dollar amounts, and rich link unfurls for social sharing.
