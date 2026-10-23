@@ -51,7 +51,13 @@ An agentic document review platform for construction owners. Contracts, rate she
 A consumer app that turns cluttered brokerage screenshots from any broker into clean, shareable portfolio cards. AI vision extracts holdings and P&L, and the app adds a community leaderboard, passkey sign-in, QR-based copy-trade links, privacy controls to hide dollar amounts, and rich link unfurls for social sharing.
 
 <img src="portfolio/trade-share-upload-landing.png" width="900" alt="Bold upload-first landing page">
-<img src="portfolio/trade-share-community-feed.png" width="49%" alt="Community feed of ranked portfolios with sparklines"> <img src="portfolio/trade-share-mobile-card-editor.png" width="49%" alt="Mobile card preview with share, download, and verify actions">
+
+<table>
+  <tr>
+    <td><img src="portfolio/trade-share-community-feed.png" width="420" alt="Community feed of ranked portfolios with sparklines"></td>
+    <td><img src="portfolio/trade-share-mobile-card-editor.png" width="420" alt="Mobile card preview with share, download, and verify actions"></td>
+  </tr>
+</table>
 
 #### 🤖 AI automation agency site
 A cinematic landing page for an enterprise workflow automation agency: an animated light-field hero, editorial serif typography, and a rotating case-study card with real outcome metrics.
