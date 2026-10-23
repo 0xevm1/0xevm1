@@ -4,23 +4,33 @@
 
 I've built user-facing experiences at **Adobe** and **Disney Streaming**, where design quality, performance, and reliability are held to a very high bar for millions of users. I bring that same standard to every team I partner with. I take products from a rough idea to a production-ready interface backed by solid APIs, data pipelines, and AI agents.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
----
+**Backend**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### What I bring to a team
+**Cloud, Infra & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-- **Design-minded engineering.** I sweat typography, spacing, motion, empty states, and the small interactions that make a product feel considered. I can work from a Figma file or design directly in code.
-- **Enterprise and consumer scale.** At Adobe and Disney Streaming I worked on interfaces where accessibility, cross-device consistency, and performance aren't optional.
-- **Agentic and AI-native products.** I build LLM-powered workflows that are trustworthy in practice: document understanding with citations, multi-step agent pipelines, MCP/API integrations, and UIs that make the AI's reasoning visible and correctable.
-- **True full stack ownership.** Frontend, backend, data modeling, auth (including passkeys), real-time data, and deployment. I can own a feature or a whole product.
-- **A partner, not just a pair of hands.** I'll push back on scope when it helps, propose simpler paths, and communicate clearly with product, design, and stakeholders.
+**AI & Agents**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
 ---
 
